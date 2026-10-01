@@ -3,8 +3,8 @@
 Cinefy is a theater management platform developed using the MERN Full Stack. It helps manage movies, theaters, shows, users, and ticket bookings through a web-based application.
 
 # Technologies Used
-Frontend: React.js, HTML, CSS, Bootstrap
-Backend: Node.js, Express.js
+* Frontend: React.js, HTML, CSS, Bootstrap
+* Backend: Node.js, Express.js
 Database: MongoDB
 API: REST API
 Tools: Git, GitHub, VS Code
